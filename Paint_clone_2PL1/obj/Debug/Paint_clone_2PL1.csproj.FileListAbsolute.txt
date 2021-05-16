@@ -1,0 +1,66 @@
+c:\users\antonio\documents\visual studio 2015\Projects\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe.config
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe.config
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.pdb
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Form1.resources
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.exe
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.pdb
+I:\Nkkm\14 Paskaita\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe.config
+I:\Nkkm\14 Paskaita\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.exe
+I:\Nkkm\14 Paskaita\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.pdb
+I:\Nkkm\14 Paskaita\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe
+I:\Nkkm\14 Paskaita\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.pdb
+I:\Nkkm\14 Paskaita\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csprojResolveAssemblyReference.cache
+I:\Nkkm\14 Paskaita\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Form1.resources
+I:\Nkkm\14 Paskaita\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Properties.Resources.resources
+I:\Nkkm\14 Paskaita\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csproj.GenerateResource.Cache
+D:\Nkkm\2PL1 2017-2018\14 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe.config
+D:\Nkkm\2PL1 2017-2018\14 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.exe
+D:\Nkkm\2PL1 2017-2018\14 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.pdb
+D:\Nkkm\2PL1 2017-2018\14 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe
+D:\Nkkm\2PL1 2017-2018\14 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.pdb
+D:\Nkkm\2PL1 2017-2018\14 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csprojResolveAssemblyReference.cache
+D:\Nkkm\2PL1 2017-2018\14 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Form1.resources
+D:\Nkkm\2PL1 2017-2018\14 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Properties.Resources.resources
+D:\Nkkm\2PL1 2017-2018\14 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csproj.GenerateResource.Cache
+D:\Nkkm\2PL1 2018-2019\13 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe.config
+D:\Nkkm\2PL1 2018-2019\13 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.exe
+D:\Nkkm\2PL1 2018-2019\13 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.pdb
+D:\Nkkm\2PL1 2018-2019\13 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe
+D:\Nkkm\2PL1 2018-2019\13 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.pdb
+D:\Nkkm\2PL1 2018-2019\13 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csprojResolveAssemblyReference.cache
+D:\Nkkm\2PL1 2018-2019\13 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Form1.resources
+D:\Nkkm\2PL1 2018-2019\13 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Properties.Resources.resources
+D:\Nkkm\2PL1 2018-2019\13 Paskaita. Paint 1\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csprojAssemblyReference.cache
+H:\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe.config
+H:\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.exe
+H:\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.pdb
+H:\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe
+H:\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.pdb
+H:\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csprojResolveAssemblyReference.cache
+H:\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Form1.resources
+H:\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Properties.Resources.resources
+H:\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csproj.GenerateResource.Cache
+C:\Users\Mantas\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe.config
+C:\Users\Mantas\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.exe
+C:\Users\Mantas\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.pdb
+C:\Users\Mantas\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe
+C:\Users\Mantas\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.pdb
+C:\Users\Mantas\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csprojResolveAssemblyReference.cache
+C:\Users\Mantas\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Form1.resources
+C:\Users\Mantas\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Properties.Resources.resources
+C:\Users\Mantas\Desktop\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csproj.GenerateResource.Cache
+C:\Documents\Nkkm\C# paskaitos\2PL3 2019\15 Paskaita. Paint 3\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe.config
+C:\Documents\Nkkm\C# paskaitos\2PL3 2019\15 Paskaita. Paint 3\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.exe
+C:\Documents\Nkkm\C# paskaitos\2PL3 2019\15 Paskaita. Paint 3\Paint_clone_2PL1\Paint_clone_2PL1\bin\Debug\Paint_clone_2PL1.pdb
+C:\Documents\Nkkm\C# paskaitos\2PL3 2019\15 Paskaita. Paint 3\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csprojAssemblyReference.cache
+C:\Documents\Nkkm\C# paskaitos\2PL3 2019\15 Paskaita. Paint 3\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Form1.resources
+C:\Documents\Nkkm\C# paskaitos\2PL3 2019\15 Paskaita. Paint 3\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.Properties.Resources.resources
+C:\Documents\Nkkm\C# paskaitos\2PL3 2019\15 Paskaita. Paint 3\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csproj.GenerateResource.cache
+C:\Documents\Nkkm\C# paskaitos\2PL3 2019\15 Paskaita. Paint 3\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.csproj.CoreCompileInputs.cache
+C:\Documents\Nkkm\C# paskaitos\2PL3 2019\15 Paskaita. Paint 3\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.exe
+C:\Documents\Nkkm\C# paskaitos\2PL3 2019\15 Paskaita. Paint 3\Paint_clone_2PL1\Paint_clone_2PL1\obj\Debug\Paint_clone_2PL1.pdb
